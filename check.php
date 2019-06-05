@@ -26,13 +26,13 @@
 			$r_identif = mysql_fetch_array($identif);
 
 			if ($r_identif['identif']=='1'){
-				header("Location: admin.php");
+				header("Location: main.php");
 			}
 			if ($r_identif['identif'] == '2'){
-				header("Location: br.php");
+				header("Location: main.php");
 			}
 			if ($r_identif['identif'] == '0'){
-				header("Location: hello.php");
+				header("Location: main.php");
 			}
 			exit;
 		}

@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="container p-3 mb-2 bg-dark text-white col-md-12" align="center" id="header">
-	<h1>To Do List</h1>
+	<h1>ToDoList</h1>
 	</div>
 	<div class="container p-3 mb-2 bg-light col-md-12" align="center" id="p1">
 	<div class="row">

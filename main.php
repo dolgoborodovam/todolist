@@ -19,5 +19,8 @@
     </ul>
 
 	<script src="main.js"></script>
+	<div class="container p-3 mb-2 bg-light col-md-12" align="right" id="footer">
+	<a href="index.php"><img src="logout.png"></a>
+</div>
 </body>
 </html>

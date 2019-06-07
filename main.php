@@ -11,5 +11,16 @@
 	<h1>ToDoList</h1>
 	</div>
 	<div class="container p-3 mb-2 bg-light col-md-12" align="center" id="p1">
+		<div class="form-group mx-sm-3 mb-2">
+			<input class="" type="text" id="text" name="text" placeholder="to do...">
+			
+			<label class="btn btn-primary" onclick="add_list()">Добавить</label>
+			<label onclick="del()">dsfds</label>
+		</div>
+		<div align="left" id="list"></div>
+	</div>
+
+
+	<script src="main.js"></script>
 </body>
 </html>
